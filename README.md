@@ -20,6 +20,6 @@
 | Goクイズサイト | Go, Gin | tbd |
 | Javaクイズサイト | Java(Spring Boot) | tbd |
 
-
+クロスワードはGoに移植する
 
 
